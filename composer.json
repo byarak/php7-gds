@@ -1,13 +1,13 @@
 {
-    "name": "tomwalder/php-gds",
+    "name": "byarak/php7-gds",
     "type": "library",
     "description": "Google Cloud Datastore Library for PHP. Also Firestore in Datastore mode.",
     "keywords": ["google", "datastore", "appengine", "gae", "cloud datastore", "nosql", "firestore"],
-    "homepage": "https://github.com/tomwalder/php-gds",
+    "homepage": "https://github.com/byarak/php7-gds",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Tom Walder",
+            "name": "Tommy Walder",
             "email": "twalder@gmail.com"
         }
     ],
