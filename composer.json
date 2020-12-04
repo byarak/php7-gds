@@ -1,14 +1,14 @@
 {
-  "name": "tomwalder/php-gds",
+  "name": "yarak/php7-gds",
   "type": "library",
   "description": "Google Cloud Datastore Library for PHP",
   "keywords": ["google", "datastore", "appengine", "gae", "cloud datastore", "nosql"],
-  "homepage": "https://github.com/tomwalder/php-gds",
+  "homepage": "https://github.com/byarak/php7-gds",
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Tom Walder",
-      "email": "tom@docnet.nu"
+      "name": "Tommy Walder",
+      "email": "tom1@docnet.nu"
     }
   ],
   "require": {
